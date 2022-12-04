@@ -25,7 +25,7 @@ This is a clone of Nykka which is a fashion website which is a website that sell
 ---------------------------
 
 # Tech Stack 
- 
+
 * HTML
 * CSS
 * Javascript
