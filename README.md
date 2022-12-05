@@ -3,6 +3,7 @@
   
 This is a clone of Nykka which is a fashion website which is a website that sell mackup and life style product.
 * Here the link of our website deployed on netlify : https://famous-conkies-aaaea0.netlify.app/
+* Here the link of our Demo video : https://drive.google.com/file/d/1XMN5ZCj6OI8gm3u-taJgBUP6tWi9690v/view?usp=sharing
 ----------------------------
 # Our Team Members :
 * ### Amit Chohan
